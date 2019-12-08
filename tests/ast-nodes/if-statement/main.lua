@@ -14,3 +14,7 @@ else if condition2 then
     print("condition_inner")
 end
 end
+
+if condition_return then
+return "end"
+end
